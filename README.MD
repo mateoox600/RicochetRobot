@@ -1,4 +1,4 @@
-# ** Ricochet Robot **
+# **Ricochet Robot**
 
 A game about reaching a point by using 5 robots
 
